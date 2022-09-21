@@ -89,7 +89,7 @@
      "STRING_SESSION": {
          "description": "Fill with telethon string session.",
          "required": false,
-         "value": "" 
+         "value": "BQC3N98PtWF8kgUfcSSmCHl6OagCjBxzG13iZawfvij0CzCWwwIsNvQyaJ-2Dvd6s7szKFYe76BwHvY0di3KHuRKnWx_Ejw8vFlEDGhJSCge_TDlKwpWGExYvQb05eeuJwmOju3LYLqWCgOtwrFv558G4AWiB-XRJ9lFInOups08OFfu6F8vGP2PD65IAATbcIojzoMTnle8UADB5ql0o8CYO4ZOZhVpUJk0LdJcMvpHotIrEBQw8EKCIXTSAUPyS2oYQJHap1-hgtsYNPZD0V444l5PJriS6GcTkgmpVFLK4XKU4o-q8PsIEF_IeAbJExtizsweXMckM5hxYEbI1GG_TuPhfwA" 
       },
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
