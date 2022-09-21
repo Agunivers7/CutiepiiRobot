@@ -46,6 +46,11 @@
          "required": true,
          "value": "1323557247"
       },
+      "REDIS_URL": {
+         "description": "Get it from Redislabs.com",
+         "required": true,
+         "value": "redis-11832.c244.us-east-1-2.ec2.cloud.redislabs.com:11832"
+      },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
          "required": true,
