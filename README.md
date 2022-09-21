@@ -51,7 +51,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/Agunivers7/CutiepiiRobotV2.git">
+        <a href="https://heroku.com/deploy?template=https://github.com/Agunivers7/CutiepiiRobot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -69,7 +69,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 </p>
 
 ```console
-    ~$ git clone https://github.com/Awesome-RJ/CutiepiiRobotV2.git
+    ~$ git clone https://github.com/Awesome-RJ/CutiepiiRobot
     ~$ cd CutiepiiRobotV2
     ~$ cp sample_config.py config.py
 ```
