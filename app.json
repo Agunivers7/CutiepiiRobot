@@ -86,6 +86,11 @@
         "description": "This is required for the speech to text module. Get your PASSWORD from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
         "required": false
      },
+     "STRING_SESSION": {
+         "description": "Fill with telethon string session.",
+         "required": false,
+         "value": "" 
+      },
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
